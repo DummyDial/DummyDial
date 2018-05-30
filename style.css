@@ -30,7 +30,6 @@ h1 {
 	height: 6rem;
 	cursor: pointer;
 	z-index: 2;
-	background-color: #5CACEE;
 }
 
 .navLeft {
@@ -67,13 +66,14 @@ h1 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #5CACEE;
-	padding-top: 4rem;
+	background-image: linear-gradient(to left bottom, #5cacee, #71b8f2, #85c4f7, #99cffb, #acdbff);
+	padding-top: 2rem;
+	padding-bottom: 3rem;
 }
 
 .pg2 {
 	width: 100vw;
-	height: 100%;
+	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -81,13 +81,6 @@ h1 {
 	background-color: #fff;
 	color: #919191;
 	padding-bottom: 5rem;
-}
-
-.pg2Blue {
-	height: 6rem;
-	margin-bottom: 2rem;
-	width: 100%;
-	background-color: #5CACEE;
 }
 
 .featuresTxt {
@@ -98,7 +91,7 @@ h1 {
 .pg3 {
 	height: 100vh;
 	display: flex;
-	background-color: #5CACEE;
+	background-image: linear-gradient(to left bottom, #5cacee, #71b8f2, #85c4f7, #99cffb, #acdbff);
 	padding-top: 1rem;
 	padding-bottom: 3rem;
 }
