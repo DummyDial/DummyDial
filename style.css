@@ -73,7 +73,7 @@ h1 {
 
 .pg2 {
 	width: 100vw;
-	height: 100vh;
+	height: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -348,6 +348,7 @@ a.slide_btn {
 	.slide_img > img {}
 	.pg3 {
 		padding-top: 2rem;
+		padding-bottom: 5rem;
 	}
 	.contactTxt {
 		width: 95%;
