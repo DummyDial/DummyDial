@@ -96,7 +96,7 @@ h1 {
 }
 
 .pg3 {
-	height: 105vh;
+	height: 100vh;
 	display: flex;
 	background-color: #5CACEE;
 	padding-top: 2rem;
@@ -211,7 +211,7 @@ h1 {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-top: 15rem;
+	margin-top: 16rem;
 }
 
 .slide_buttons {
