@@ -19,7 +19,7 @@ b {
 }
 
 h1 {
-	font-size: 2.8rem;
+	font-size: 2.5rem;
 }
 
 .navAll {
@@ -85,20 +85,35 @@ h1 {
 
 .pg2Blue {
 	height: 6rem;
-	margin-bottom: 4rem;
+	margin-bottom: 2rem;
 	width: 100%;
 	background-color: #5CACEE;
+}
+
+.featuresTxt {
+    margin-bottom: 2.5vw;
+    
 }
 
 .pg3 {
 	height: 100vh;
 	display: flex;
 	background-color: #5CACEE;
-	padding-top: 7rem;
+	padding-top: 2rem;
 }
 
 .pg3Cont {
-	width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+	width: 100vw;
+}
+
+.screensTxt {
+    text-align: center
+    
 }
 
 .pg4 {
@@ -124,7 +139,7 @@ h1 {
 	width: 30rem;
 	display: flex;
 	flex-direction: column;
-	margin-left: 1rem;
+	margin-left: 4rem;
 	padding-top: 5rem;
 }
 
@@ -157,7 +172,7 @@ h1 {
 }
 
 .feat > img {
-	height: 2rem;
+	height: 3.5rem;
 }
 
 .slide_group {
