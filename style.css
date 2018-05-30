@@ -31,7 +31,7 @@ h1 {
 	cursor: pointer;
 	padding-top: .5rem;
 	z-index: 2;
-	background-color: rgba(92, 172, 238, 0.2);
+	background-color: rgba(92, 172, 238, 0.3);
 }
 
 .navLeft {
