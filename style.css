@@ -25,6 +25,7 @@ h1 {
 .navAll {
 	position: fixed;
 	display: flex;
+	color: #efefef;
 	flex-direction: row;
 	width: 100vw;
 	height: 6rem;
